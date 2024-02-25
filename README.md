@@ -15,7 +15,7 @@ Los desafíos de Frontend Mentor te ayudan a mejorar tus habilidades de codifica
     - [Desarrollo continuo](#desarrollo-continuo)
     - [Recursos utiles](#recursos-utiles)
 - [Autor](#autor)
-    - [Reconocimientos](#reconocimientos)
+- [Reconocimientos](#reconocimientos)
 
 ## Descripción
 
