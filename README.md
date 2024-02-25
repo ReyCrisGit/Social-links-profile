@@ -6,20 +6,21 @@ Los desafíos de Frontend Mentor te ayudan a mejorar tus habilidades de codifica
 ## Tabla de contenidos
 
 - [Descripcion](#descripcion)
-    -[El desafio](#el-desafio)
-    -[Captura de pantalla](#captura-de-pantalla)
-    -[Enlaces](#enlaces)
--[Mi proceso](#mi-proceso)
-    -[Tecnologias utilizadas](#tecnologias-utilizadas)
-    -[Lo que aprendi](#lo-que-aprendi)
-    -[Desarrollo continuo](#desarrollo-continuo)
-    -[Recursos utiles](#recursos-utiles)
--[Autor](#autor)
-    -[Reconocimientos](#reconocimientos)
+    - [El desafio](#el-desafio)
+    - [Captura de pantalla](#captura-de-pantalla)
+    - [Enlaces](#enlaces)
+- [Mi proceso](#mi-proceso)
+    - [Tecnologias utilizadas](#tecnologias-utilizadas)
+    - [Lo que aprendi](#lo-que-aprendi)
+    - [Desarrollo continuo](#desarrollo-continuo)
+    - [Recursos utiles](#recursos-utiles)
+- [Autor](#autor)
+    - [Reconocimientos](#reconocimientos)
 
 ## Descripción
 
 ### El desafío
+
 Los usuarios deberían poder:
 
 Ver los estados de hover y foco para todos los elementos interactivos en la página.
@@ -29,7 +30,7 @@ Ver los estados de hover y foco para todos los elementos interactivos en la pág
 ### Enlaces
 
 URL de la solución: [GitHub](https://github.com/ReyCrisGit/Social-links-profile.git)
-URL del sitio en vivo: [](https://reycrisgit.github.io/Social-links-profile/)
+URL del sitio en vivo: [GitHubPages](https://reycrisgit.github.io/Social-links-profile/)
 
 ## Mi proceso
 
@@ -55,5 +56,7 @@ Los videos de [Jordan Alexander](https://www.youtube.com/@AlexCGDesign)
 
 Sitio web - [Cristian Barrios](https://github.com/ReyCrisGit)
 Frontend Mentor - [Cristian Barrios](https://www.frontendmentor.io/profile/ReyCrisGit)
-Reconocimientos
+
+## Reconocimientos
+
 Al Instructor Jordan Alexander
